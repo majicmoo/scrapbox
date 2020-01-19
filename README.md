@@ -16,3 +16,9 @@ if (rand == 0){
   pitch = Mathf.Pow(1.05946f, rand);
 }
 ```
+
+## next index (but with looping)
+
+```
+(currentIndex + 1) % (listLength);
+ ```
