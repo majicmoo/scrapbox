@@ -1,4 +1,4 @@
-# scrapbox
+# scrapbox 🧰
 some maybe useful code snippets 
 
 
