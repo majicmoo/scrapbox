@@ -1,5 +1,5 @@
 # scrapbox
-random code snippets 
+some maybe useful code snippets 
 
 
 ## random major note
